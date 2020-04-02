@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HW2.2.2</string>
+    <string name="settings">Settings</string>
+    <string name="notes">Записная книжка</string>
+    <string name="saveBtn">Сохранить</string>
+    <string name="toastInfo">Данные сохранены</string>
+    <string name="action_journal">Журнал</string>
+    <string name="openSettingsToast">Открыть настройки</string>
+    <string name="openNotesToast">Открыть записную книжку</string>
+    <string name="myToolbarTittle">MyToolbar</string>
+    <string name="openJournalToast">Открыть журнал</string>
+    <string name="myToolbarSettings">myToolbarSettings</string>
+    <string name="myToolbarJournal">myToolbarJournal</string>
+</resources>
